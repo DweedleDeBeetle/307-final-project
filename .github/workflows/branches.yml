@@ -9,5 +9,5 @@ jobs:
     steps:
       - name: Twee Autodeploy
         uses: Fireye04/Twee-Autodeploy@0.0.7
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
