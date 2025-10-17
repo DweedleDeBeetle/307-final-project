@@ -5,8 +5,9 @@ on:
 
 jobs:
   build:
-    name: Twee Autodeploy
-    uses: Fireye04/Twee-Autodeploy@0.0.4
-    secrets:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-        
+    runs-on: ubuntu-latest
+    steps:
+      - name: Twee Autodeploy
+        uses: Fireye04/Twee-Autodeploy@0.0.4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
