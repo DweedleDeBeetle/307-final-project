@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Twee Autodeploy
-        uses: Fireye04/Twee-Autodeploy@0.0.4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        uses: Fireye04/Twee-Autodeploy@0.0.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
