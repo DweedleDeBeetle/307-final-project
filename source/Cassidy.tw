@@ -19,8 +19,8 @@ You swivel your chair around dramatically, spilling a mug full of pens.
 Jim, the department head, stares at you, then at the spilled pens, then back to you.
 "Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
 
-[[Wish him a goodnight.|goodnight]]
-[[Glare at him.|glare]]
+[[Wish him a goodnight. | goodnight]]
+[[Glare at him. | glare]]
 
 
 
@@ -29,9 +29,9 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 "Jesus Eugene!" The man behind you yells, "What the hell was that for?"
 
-[[Lie.|lie]]
-[[Tell the truth.|truth]]
-
+[[Lie. | lie]]
+[[Tell the truth. | truth]]
+ 
 :: lie 
 You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
 
@@ -39,8 +39,8 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 "Sorry, I'm just a bit jumpy...
 
-[[...since the accident."| accident]]
-[[...too many horror games."| horror games]]
+[[...since the accident. | accident]]
+[[...too many horror games. | horror games]]
 
 :: accident
 You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
@@ -52,7 +52,7 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 Jim, your department head, scowls at you.
 "I thought you were on vacation last month."
 
-[["I got hit by a bus in Paris."|paris]]
+[["I got hit by a bus in Paris." | paris]]
 
 :: paris
 You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
@@ -81,7 +81,7 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 Jim, your department head, chuckles lightly and says, "Been there. By the way, just wanted to let you know I'm headed out early tonight, so it's only you and Janet until 8."
 
-[[Wish him goodnight.| goodnight]]
+[[Wish him goodnight. | goodnight]]
 [[]]
 
 :: truth
