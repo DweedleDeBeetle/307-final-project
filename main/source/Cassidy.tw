@@ -17,6 +17,71 @@ But for some reason you want to [[scream]].
 You swivel your chair around dramatically, spilling a mug full of pens.
 
 Jim, the department head, stares at you, then at the spilled pens, then back to you.
-"Just thought I'd let you know I'm leaving early today"
+"Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
+
+[[Wish him a goodnight.|goodnight]]
+[[Glare at him.|glare]]
+
+
 
 :: scream
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+[[Lie.|lie]]
+[[Tell the truth.|truth]]
+
+:: lie 
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"Sorry, I'm just a bit jumpy...
+
+[[...since the accident."|accident]]
+[[...too many horror games."|horror games]]
+
+:: accident
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"Sorry, I'm just a bit jumpy... it's been hard to readjust to normalcy since i got hit by that bus last month."
+
+Jim, your department head, scowls at you.
+"I thought you were on vacation last month."
+
+[["I got hit by a bus in Paris."|paris]]
+
+:: paris
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"Sorry, I'm just a bit jumpy... it's been hard to readjust to normalcy since i got hit by that bus last month."
+
+Jim, your department head, scowls at you.
+"I thought you were on vacation last month."
+
+"I got hit by a bus in Paris."
+
+"I'm sorry to hear that, I had no idea. I'll be careful about sneaking up behind you next time."
+"Oh, I came over here to let you know I'm headed out early tonight, so It'll be just you and Janet until 8."
+
+[[Wish him a goodnight. | goodnight]]
+[[]]
+
+:: horror games
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"Sorry, I'm just a bit jumpy... I guess I played too many horror games last night."
+
+Jim, your department head, chuckles lightly and says, "Been there. By the way, just wanted to let you know I'm headed out early tonight, so it's only you and Janet until 8."
+
+[[Wish him goodnight.| goodnight]]
+[[]]
+
+:: truth
