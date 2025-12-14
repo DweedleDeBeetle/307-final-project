@@ -1,5 +1,22 @@
 :: Start
-Yippee [["gay"]]
+In the distance you can hear the bell tower ring seven times. Just one more hour until you can go home. 
+Your boss has you working overtime all week, although that's nothing new. 
+Your friends always told you climbing the corporate ladder was nothing but suffering, you should have [[listen|footsteps]]ed to them.
 
-:: gay
-wowzers
+:: footsteps
+You can hear footsteps [[behind|looming]] you.
+
+:: looming
+A shadow begins to creep across your cubicle.
+Someone clears their throat behind you.
+
+You should probably [[turn around]], it would be rude to ignore a coworker.
+But for some reason you want to [[scream]].
+
+:: turn around
+You swivel your chair around dramatically, spilling a mug full of pens.
+
+Jim, the department head, stares at you, then at the spilled pens, then back to you.
+"Just thought I'd let you know I'm leaving early today"
+
+:: scream
