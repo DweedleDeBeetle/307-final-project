@@ -2,6 +2,7 @@
 In the distance you hear the bell tower ring seven times. Just one more hour until you can go home. 
 Your boss has you working overtime all week, although that's nothing new. 
 Your friends always told you climbing the corporate ladder was nothing but suffering, you should have [[listen|footsteps]]ed to them.
+<<set nail to false>>
 
 :: footsteps
 In the distance you hear the bell tower ring seven times. Just one more hour until you can go home. 
@@ -223,3 +224,182 @@ Jim turns around and walks towards the exit, you can hear him say something to J
 Now that your boss is out of the office, it couldn't hurt to take a quick [[walk | window]] around before you get back to work.
 
 :: window
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a [[sound]].
+
+:: sound
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+[[Investigate. | investigate]]
+[[Ignore. | ignore]]
+
+:: investigate
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+You slowly twist the handle of Jim's door and creak it open, peering into the room.
+
+You hear the sound again, this time louder and more frequent.
+
+It appears as though there's a light blob silhouetted by the sun outside his window.
+
+[[Focus your eyes. | squint]]
+
+:: squint
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+You slowly twist the handle of Jim's door and creak it open, peering into the room.
+
+You hear the sound again, this time louder and more frequent.
+
+It appears as though there's a light blob silhouetted by the sun outside his window.
+
+You squint your eyes until the blob comes into focus. 
+It's a small white dove, tapping on the glass.
+No, not just tapping, cracking the glass.
+
+[[Help it. | nailgun]]
+
+:: nailgun
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+You slowly twist the handle of Jim's door and creak it open, peering into the room.
+
+You hear the sound again, this time louder and more frequent.
+
+It appears as though there's a light blob silhouetted by the sun outside his window.
+
+You squint your eyes until the blob comes into focus. 
+It's a small white dove, tapping on the glass.
+No, not just tapping, cracking the glass.
+
+You take scan the room to find something useful.
+A nailgun! perfect. 
+You take Jim's woodworking nailgun and press it against the window.
+<<set $nail to true>>
+[[Pull the trigger. | trigger]]
+
+:: trigger
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+You slowly twist the handle of Jim's door and creak it open, peering into the room.
+
+You hear the sound again, this time louder and more frequent.
+
+It appears as though there's a light blob silhouetted by the sun outside his window.
+
+You squint your eyes until the blob comes into focus. 
+It's a small white dove, tapping on the glass.
+No, not just tapping, cracking the glass.
+
+You take scan the room to find something useful.
+A nailgun! perfect. 
+You take Jim's woodworking nailgun and press it against the window.
+
+You pull the trigger and hear a loud shattering noise as shards of glass rain onto you, leaving shallow cuts along your arms.
+
+The [[dove]] hovers towards you.
+
+:: ignore
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+That wouldn't make sense, your office is on the 12th floor, you must be going delirious. 
+It would be best to just ignore it.
+
+You keep walking, and are almost back to your desk when you hear a sudden shatering noise come from Jim's office.
+
+[[Investigate the noise. | shatter]]
+
+:: shatter
+You get up from your desk and step out of the cubicle.
+
+The lights have been turned off in all the offices and conference rooms along the wall. The large room packed efficiently with cubicles begins to dim as the sun starts to set outside the window and the low budget fluorescent lights that line the drop ceiling kick in.
+
+You begin to wander around the circuit that follows the walls of the room, being careful to avoid Janet's line of sight.
+
+You're passing the door to Jim's office when you hear a sound.
+
+It sounds like something tapping on glass, and it sounds like it's coming from Jim's office.
+
+That wouldn't make sense, your office is on the 12th floor, you must be going delirious. 
+It would be best to just ignore it.
+
+You keep walking, and are almost back to your desk when you hear a sudden shatering noise come from Jim's office.
+
+That couldn't have just been delirium. 
+You double back to Jim's office and slowly creak the door open, peaking into the office.
+
+There is a white [[dove]] hovering over a sea of broken glass that covers the brown carpet.
+Its wings flap more violently than before and it hovers towards you.
+
+:: dove
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+[["Who are you?" | question]]
+
+:: question
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
