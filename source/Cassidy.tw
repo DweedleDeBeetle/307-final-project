@@ -18,7 +18,7 @@ Your friends always told you climbing the corporate ladder was nothing but suffe
 You can hear footsteps behind you.
 
 A shadow begins to creep across your cubicle.
-Someone clears their throat behind you.
+Someone clears their throat.
 
 You should probably [[turn around]], it would be rude to ignore a coworker.
 But for some reason you want to [[scream]].
@@ -32,7 +32,76 @@ Jim, the department head, stares at you, then at the spilled pens, then back to 
 [[Wish him a goodnight. | goodnight]]
 [[Glare at him. | glare]]
 
+:: glare
+You swivel your chair around dramatically, spilling a mug full of pens.
 
+Jim, the department head, stares at you, then at the spilled pens, then back to you.
+"Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
+
+You glare at Jim as though he had killed one of your family members.
+
+Jim looks taken aback.
+
+[[Wish him a goodnight. | goodnight]]
+[[Glare harder. | glare2]]
+
+:: glare2
+You swivel your chair around dramatically, spilling a mug full of pens.
+
+Jim, the department head, stares at you, then at the spilled pens, then back to you.
+"Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
+
+You glare at Jim as though he had killed one of your family members.
+
+Jim looks taken aback.
+
+Your glare deepens, as though Jim had burned your house down with your parents inside.
+
+Jim takes a step back and asks, "Have I done something to offend you?"
+
+[[Forgive Jim. | forgive]]
+[[GLARE HARDER. | glare3]]
+
+:: forgive
+You swivel your chair around dramatically, spilling a mug full of pens.
+
+Jim, the department head, stares at you, then at the spilled pens, then back to you.
+"Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
+
+You glare at Jim as though he had killed one of your family members.
+
+Jim looks taken aback.
+
+Your glare deepens, as though Jim had burned your house down with your parents inside.
+
+Jim takes a step back and asks, "Have I done something to offend you?"
+
+"I'm so sorry about that, there was something in my eye."
+
+"Ok then, have a nice night. I hope your eyes don't start acting up again."
+
+[[Wish him a goodnight. | goodnight]]
+
+:: glare3
+You swivel your chair around dramatically, spilling a mug full of pens.
+
+Jim, the department head, stares at you, then at the spilled pens, then back to you.
+"Just thought I'd let you know I'm leaving early today, so it'll be just you and Janet until 8."
+
+You glare at Jim as though he had killed one of your family members.
+
+Jim looks taken aback.
+
+Your glare deepens, as though Jim had burned your house down with your parents inside.
+
+Jim takes a step back and asks, "Have I done something to offend you?"
+
+You glare harder than you thought was possible, as though Jim had personally cut the lifesupport from your nonexistent wife's hospital bed.
+
+Jim trips over his feet stumbling backwards.
+After a moment of struggling to regain his balance, he speedwalks towards the exit.
+
+You should probably take a quick [[walk | window]] around the office to cool off before getting back to work.
 
 :: scream
 You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
@@ -80,7 +149,6 @@ Jim, your department head, scowls at you.
 "Oh, I came over here to let you know I'm headed out early tonight, so It'll be just you and Janet until 8."
 
 [[Wish him a goodnight. | goodnight]]
-[[]]
 
 :: horror games
 You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
@@ -91,7 +159,67 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 Jim, your department head, chuckles lightly and says, "Been there. By the way, just wanted to let you know I'm headed out early tonight, so it's only you and Janet until 8."
 
-[[Wish him goodnight. | goodnight]]
-[[]]
+[[Wish him a goodnight. | goodnight]]
 
 :: truth
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit in on my computer. And you know the best part? I have to stay here three hours of overtime, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
+
+Jim stares at you blankly, then slowly nods and scowls, "I see."
+After a brief pause he continues, "If you don't like your job, then I'd be happy to replace you with someone that has a little more enthusiasm."
+
+[[Apologize to Jim. | apologize]]
+[[Quit your job. | quit]]
+
+:: apologize
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit in on my computer. And you know the best part? I have to stay here three hours of overtime all week, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
+
+Jim stares at you blankly, then slowly nods and scowls, "I see."
+After a brief pause he continues, "If you don't like your job, then I'd be happy to replace you with someone that has a little more enthusiasm."
+
+"I'm sorry for freaking out." You say sheepishly, "It's been a long week, I'm sure you can understand. But I'm always happy to put in a lttle extra time for the company."
+
+Jim smiles and nods approvingly, "I was in your place once, trust me, it gets better if you stick to it."
+He pats you on the shoulder and adds, "By the way, I'll be heading out early today, so it's just you and Janet until 8."
+
+[[Wish him a goodnight. | goodnight]]
+
+:: quit
+You inhale sharply, then let out the loudest scream you can muster, turning your chair for the duration of the scream.
+
+"Jesus Eugene!" The man behind you yells, "What the hell was that for?"
+
+"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit in on my computer. And you know the best part? I have to stay here three hours of overtime, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
+
+Jim stares at you blankly, then slowly nods and scowls, "I see."
+After a brief pause he continues, "If you don't like your job, then I'd be happy to replace you with someone that has a little more enthusiasm."
+
+"You know what? I was wrong before, I can't take this anymore, I quit."
+
+Jim shakes his head, "If that's how it is. I'm leaving early today, but I expect your desk to be packed and all your things gone when I get to the office tomorrow morning."
+"Janet will be here until 8, give her you name badge as well as any other company property you still have before you leave."
+
+Jim walks towards the exit and you hear him say something to Janet, the receptionist, before leaving.
+
+You should probably take a [[walk | window]] around the office to cool off before you pack your things.
+
+:: goodnight
+"Have a goodnight. Will you be in the office on time tomorrow?"
+
+Jim rolls his eyes and says, "You know I've been sick right? and I still show up to work, so I think I get a pass."
+
+"Yeah, yeah. We've all played hookey before."
+
+"Don't forget I'm your boss."
+Jim turns around and walks towards the exit, you can hear him say something to Janet, the receptionist, before he leaves.
+
+Now that your boss is out of the office, it couldn't hurt to take a quick [[walk | window]] around before you get back to work.
+
+:: window
