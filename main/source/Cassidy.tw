@@ -571,9 +571,73 @@ You suddenly hit something very hard and hear a loud crack as you roll off the t
 The dove flutters around you and the pain begins to fade.
 "There //it// is, quickly now, before //it// drives off." 
 
-As you are pulling yourself to your feet,[[ Jim]] runs up to you and frantically asks, "Holy shit Eugene, are you ok? I'm surprised your breathing at all, let alone on your feet."
+As you are pulling yourself to your feet, Jim runs up to you and frantically asks, "Holy shit Eugene, are you ok? I'm surprised your breathing at all, let alone on your feet."
 
-:: Jim
+[[Attack Jim. | attack]]
+[[Explain yourself. | explain]]
 
+:: attack
+You brandish your wooden plank, swinging madly at Jim, the dove plucking away at his flesh, and sirens blaring in the distance.
+
+"You really are insane!" Jim manages to yell, thrashing at you and the dove to no avail.
+You knock him to the ground, covered in blood, "Please. I'm begging you Eugene, you don't have to do this. I'll-I'll even give you a raise."
+
+"You know what must be done, we can't let //it// live." The voice in your head coos.
+
+[[Finish him. | kill jim]]
+[[Spare him. | spare jim]]
+
+:: kill jim
+You brandish your wooden plank, swinging madly at Jim, the dove plucking away at his flesh, and sirens blaring in the distance.
+<<set $murderer to true>>
+"You really are insane!" Jim manages to yell, thrashing at you and the dove to no avail.
+You knock him to the ground, covered in blood, "Please. I'm begging you Eugene, you don't have to do this. I'll-I'll even give you a raise."
+
+"You know what must be done, we can't let //it// live." The voice in your head coos.
+
+With one more swing of your wooden plank, you take care of business.
+The sirens are drawing nearer, lights begin to flash at the end of the street, it's time to [[run]].
+
+:: spare jim
+You brandish your wooden plank, swinging madly at Jim, the dove plucking away at his flesh, and sirens blaring in the distance.
+
+"You really are insane!" Jim manages to yell, thrashing at you and the dove to no avail.
+You knock him to the ground, covered in blood, "Please. I'm begging you Eugene, you don't have to do this. I'll-I'll even give you a raise."
+
+"You know what must be done, we can't let //it// live." The voice in your head coos.
+
+Even after all the pain Jim has caused you, you can't bring yourself to end his life, even if the voices tell you he's evil.
+
+The sirens are drawing nearer, lights begin to flash at the end of the street, it's time to [[run]].
+
+:: explain
+You tell Jim about the window and the dove and the voice<<if $janet is true>> and Janet<</if>>.
+
+"What the fuck are you on about? You sound like an insane person." Jim says while grabbing onto your arm to stabilize you.
+
+You hear the voice in yur head again, "Don't tell //it// about me. //It// will only lie to you."
+"Hold on, I see what you're doing, you're distracting him, good thinking."
+The dove flutters over to Jim and begins pecking at his eyes.
+"Now's your chance!"
+
+[[Attack Jim. | attack]]
+[[Do nothing. | nothing]]
+
+:: nothing
+You tell Jim about the window and the dove and the voice<<if $janet is true>> and Janet<</if>>.
+
+"What the fuck are you on about? You sound like an insane person." Jim says while grabbing onto your arm to stabilize you.
+
+You hear the voice in yur head again, "Don't tell //it// about me. //It// will only lie to you."
+"Hold on, I see what you're doing, you're distracting him, good thinking."
+The dove flutters over to Jim and begins pecking at his eyes.
+"Now's your chance!"
+
+You choose to sit there and watch as the dove does irreparable damage to Jim's eyes.
+In the distance you can hear sirens.<<if $murderer is false>> <<if $janet is true>>Janet must have woken up.<<else>>Janet must have called the police.<</if>><<else>>Someone must have seen and called the authorities.<</if>>
+You have to do something before the police get here.
+You have to [[attack Jim. | attack]]
+
+:: run
 
 :: conform
