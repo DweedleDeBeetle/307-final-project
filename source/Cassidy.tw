@@ -519,6 +519,14 @@ The voice groans and the dove flutters in circles around your head, "Fine, we'll
 You do not trust the dove, and opt to take the stairs instead.
 After three excruciating minutes of sprinting down stairs while a voice in your head chastises you, you reach the bottom and burst out the [[door | Jim]].
 
+:: Jim
+Jim is getting into his car as you burst out the door, you yell to him which gets his attention.
+
+He walks over to you, "Is everything all right, Eugene? Did you need something from me before I left?"
+
+[[Attack him. | attack]]
+[[Tell him everything. | explain]]
+
 :: jump
 You sprint across Jim's office, broken glass crunching under your boots, and leap out the broken window.
 
@@ -639,5 +647,203 @@ You have to do something before the police get here.
 You have to [[attack Jim. | attack]]
 
 :: run
+With sirens blaring at your back, you hop a chain link fence and run in the opposite direction.
+
+Your mind is racing but it is silenced by the voice, "This is an excellent start, Eugene. But there are more //enemies// of the light still. we must plant a device to take down the office when all of them are present."
+
+[[A device? | device]]
+
+:: device
+With sirens blaring at your back, you hop a chain link fence and run in the opposite direction.
+
+Your mind is racing but it is silenced by the voice, "This is an excellent start, Eugene. But there are more //enemies// of the light still. we must plant a device to take down the office when all of them are present."
+
+"A device?"
+
+"Yes, a sort of bomb I suppose." The voice replies.
+
+[[Where would I get a bomb? | where would i bomb]]
+
+:: where would i bomb
+With sirens blaring at your back, you hop a chain link fence and run in the opposite direction.
+
+Your mind is racing but it is silenced by the voice, "This is an excellent start, Eugene. But there are more //enemies// of the light still. we must plant a device to take down the office when all of them are present."
+
+"A device?"
+
+"Yes, a sort of bomb I suppose." The voice replies.
+
+"Where would I get a bomb?"
+
+"Luckily for you I already had one delivered to your apartment, we just need to go pick it up."
+
+How this dove managed to order a bomb you have no idea, but your [[apartment]] seems to be the best option for now.
+
+:: apartment
 
 :: conform
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+
+[[Attack Janet. | attack janet]]
+[[No I swear it was the dove. | blame]]
+
+:: blame
+
+:: attack janet
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+<<set $janet to true>>
+Rather than place the wood plank on the ground, you lunge at Janet and start beating her with the plank.
+You only stop once you are sure she is unconscious.
+
+"Well, what are you doing? Finish the job."
+
+[[Kill her. | finish janet]]
+[[Spare her. | dont kill janet]]
+
+:: finish janet
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+<<set $janet to true>>
+Rather than place the wood plank on the ground, you lunge at Janet and start beating her with the plank.
+You only stop once you are sure she is unconscious.
+<<set $murderer to true>>
+"Well, what are you doing? Finish the job."
+
+You take your wooden plank and finish the job.
+
+"Good, now we need to get to the //other one// before its too late. You need to trust me here Eugene, jump out the window."
+
+[[Jump out the window. | jump]]
+[[Take the stairs. | stairs3]]
+
+:: stairs3
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+<<set $janet to true>>
+Rather than place the wood plank on the ground, you lunge at Janet and start beating her with the plank.
+You only stop once you are sure she is unconscious.
+
+"Well, what are you doing? Finish the job."
+
+You take your wooden plank and finish the job.
+
+"Good, now we need to get to the //other one// before its too late. You need to trust me here Eugene, jump out the window."
+
+You do not trust the dove, and opt to take the stairs instead.
+After three excruciating minutes of sprinting down stairs while a voice in your head chastises you, you reach the bottom and burst out the [[door | Jim]].
+
+:: dont kill janet
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+<<set $janet to true>>
+Rather than place the wood plank on the ground, you lunge at Janet and start beating her with the plank.
+You only stop once you are sure she is unconscious.
+
+"Well, what are you doing? Finish the job."
