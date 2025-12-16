@@ -1,10 +1,11 @@
 :: Start
-<img src="https://i.pinimg.com/originals/cc/a8/4a/cca84a2145f20475fa762c04bb983ef3.jpg" width="512" height="512">
 You are Eugene. 
 An office worker trapped working a shitty job at a shitty company.
 In the distance you hear the bell tower ring seven times. Just one more hour until you can go home. 
 Your boss has you working overtime all week, although that's nothing new. 
 Your friends always told you climbing the corporate ladder was nothing but suffering, you should have [[listen|footsteps]]ed to them.
+<img src="https://i.pinimg.com/originals/cc/a8/4a/cca84a2145f20475fa762c04bb983ef3.jpg" width="512" height="512">
+
 <<set $nail to false>>
 <<set $murderer to false>>
 <<set $janet to false>>
