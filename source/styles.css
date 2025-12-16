@@ -1,7 +1,7 @@
 
 /*The body is everything displayed in the main text delivery area*/
 body {
-	background: #685f4d ;
+	background: #d4bf8a ;
 	color: black;
 }
 
@@ -33,7 +33,7 @@ a.link-internal {
 
 /* This id is specific to the sidebar*/
 #ui-bar {
-	background-color: gray;
+	background-color: rgb(93, 6, 6);
 }
 
 .important {
