@@ -3,6 +3,8 @@ In the distance you hear the bell tower ring seven times. Just one more hour unt
 Your boss has you working overtime all week, although that's nothing new. 
 Your friends always told you climbing the corporate ladder was nothing but suffering, you should have [[listen|footsteps]]ed to them.
 <<set $nail to false>>
+<<set $murderer to false>>
+<<set $janet to false>>
 
 :: footsteps
 In the distance you hear the bell tower ring seven times. Just one more hour until you can go home. 
@@ -167,7 +169,7 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 "Jesus Eugene!" The man behind you yells, "What the hell was that for?"
 
-"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit on my computer. And you know the best part? I have to stay here three hours of overtime, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
+"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit on my computer. And you know the best part? I have to stay here three hours of overtime all week, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
 
 Jim stares at you blankly, then slowly nods and scowls, "I see."
 After a brief pause he continues, "If you don't like your job, then I'd be happy to replace you with someone that has a little more enthusiasm."
@@ -197,7 +199,7 @@ You inhale sharply, then let out the loudest scream you can muster, turning your
 
 "Jesus Eugene!" The man behind you yells, "What the hell was that for?"
 
-"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit on my computer. And you know the best part? I have to stay here three hours of overtime, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
+"I can barely take it anymore. This job is the worst, I get paid a mere pittance for sitting in my shitty little cubicle all day doing corporate bullshit on my computer. And you know the best part? I have to stay here three hours of overtime all week, because if I don't, I'll be out of a job and on the streets. Hell I can barely afford rent in this city as is."
 
 Jim stares at you blankly, then slowly nods and scowls, "I see."
 After a brief pause he continues, "If you don't like your job, then I'd be happy to replace you with someone that has a little more enthusiasm."
@@ -309,7 +311,7 @@ You squint your eyes until the blob comes into focus.
 It's a small white dove, tapping on the glass.
 No, not just tapping, cracking the glass.
 
-You take scan the room to find something useful.
+You scan the room to find something useful.
 A nailgun! perfect. 
 You take Jim's woodworking nailgun and press it against the window.
 <<set $nail to true>>
@@ -336,7 +338,7 @@ You squint your eyes until the blob comes into focus.
 It's a small white dove, tapping on the glass.
 No, not just tapping, cracking the glass.
 
-You take scan the room to find something useful.
+You scan the room to find something useful.
 A nailgun! perfect. 
 You take Jim's woodworking nailgun and press it against the window.
 
@@ -358,7 +360,7 @@ It sounds like something tapping on glass, and it sounds like it's coming from J
 That wouldn't make sense, your office is on the 12th floor, you must be going delirious. 
 It would be best to just ignore it.
 
-You keep walking, and are almost back to your desk when you hear a sudden shatering noise come from Jim's office.
+You keep walking, and are almost back to your desk when you hear a sudden shattering noise come from Jim's office.
 
 [[Investigate the noise. | shatter]]
 
@@ -376,13 +378,13 @@ It sounds like something tapping on glass, and it sounds like it's coming from J
 That wouldn't make sense, your office is on the 12th floor, you must be going delirious. 
 It would be best to just ignore it.
 
-You keep walking, and are almost back to your desk when you hear a sudden shatering noise come from Jim's office.
+You keep walking, and are almost back to your desk when you hear a sudden shattering noise come from Jim's office.
 
 That couldn't have just been delirium. 
 You double back to Jim's office and slowly creak the door open, peaking into the office.
 
 There is a white [[dove]] hovering over a sea of broken glass that covers the brown carpet.
-Its wings flap more violently than before and it hovers towards you.
+Its wings flap violently and it hovers towards you.
 
 :: dove
 You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
@@ -403,3 +405,175 @@ The voice returns, "Please Eugene, act with haste."
 "Who are you?"
 
 The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+[[This can't be real. | next]]
+
+:: next
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+[[Slam through the door. | door]]
+[[Jump. | jump]]
+<<if $nail is false>>[[Put the plank down. | conform]]<</if>>
+
+:: door
+With wooden plank in hand, you sprint towards the office door, drop your shoulder and slam full force through the door, knocking the approaching Janet into a cubicle behind her.
+
+"Yes! Good job Eugene!" The voice chimes.
+
+Janet lets out a groan and slumps into a pile of file folders and loose papers.
+She must be unconscious.
+
+"Now finish //this one// so we can make it down to the //other one// in time." The voice orders.
+<<set $janet to true>>
+[[Finish her. | murder]]
+[[Refuse. | refuse]]
+
+:: murder
+With wooden plank in hand, you sprint towards the office door, drop your shoulder and slam full force through the door, knocking the approaching Janet into a cubicle behind her.
+
+"Yes! Good job Eugene!" The voice chimes.
+
+Janet lets out a groan and slumps into a pile of file folders and loose papers.
+She must be unconscious.
+
+"Now finish //this one// so we can make it down to the //other one// in time." The voice orders.
+
+You take the wooden plank in your hands, and do what must be done, staining the cubicle.
+
+"Good, we should be able to get the other one if we're quick. Eugene, trust me, you need to jump out the window."
+
+[[Jump. | jump]]
+[[Take the stairs. | stairs]]
+<<set $murderer to true>>
+
+:: stairs
+With wooden plank in hand, you sprint towards the office door, drop your shoulder and slam full force through the door, knocking the approaching Janet into a cubicle behind her.
+
+"Yes! Good job Eugene!" The voice chimes.
+
+Janet lets out a groan and slumps into a pile of file folders and loose papers.
+She must be unconscious.
+
+"Now finish //this one// so we can make it down to the //other one// in time." The voice orders.
+
+You take the wooden plank in your hands, and do what must be done, staining the cubicle.
+
+"Good, we should be able to get the other one if we're quick. Eugene, trust me, you need to jump out the window."
+
+You do not trust the dove, and opt to take the stairs instead.
+After three excruciating minutes of sprinting down stairs while a voice in your head chastises you, you reach the bottom and burst out the [[door | Jim]].
+
+:: refuse
+With wooden plank in hand, you sprint towards the office door, drop your shoulder and slam full force through the door, knocking the approaching Janet into a cubicle behind her.
+
+"Yes! Good job Eugene!" The voice chimes.
+
+Janet lets out a groan and slumps into a pile of file folders and loose papers.
+She must be unconscious.
+
+"Now finish //this one// so we can make it down to the //other one// in time." The voice orders.
+
+"No. I can't just kill her."
+
+The voice groans and the dove flutters in circles around your head, "Fine, we'll deal with //it// later, for now we need to stop the //other one// before //it// leaves."
+"I know you don't entirely trust me yet, but we must be hasty, and I need you to jump out the window."
+
+[[Jump. | jump]]
+[[Take the stairs. | stairs2]]
+
+:: stairs2
+With wooden plank in hand, you sprint towards the office door, drop your shoulder and slam full force through the door, knocking the approaching Janet into a cubicle behind her.
+
+"Yes! Good job Eugene!" The voice chimes.
+
+Janet lets out a groan and slumps into a pile of file folders and loose papers.
+She must be unconscious.
+
+"Now finish //this one// so we can make it down to the //other one// in time." The voice orders.
+
+"No. I can't just kill her."
+
+The voice groans and the dove flutters in circles around your head, "Fine, we'll deal with //it// later, for now we need to stop the //other one// before //it// leaves."
+"I know you don't entirely trust me yet, but we must be hasty, and I need you to jump out the window."
+
+You do not trust the dove, and opt to take the stairs instead.
+After three excruciating minutes of sprinting down stairs while a voice in your head chastises you, you reach the bottom and burst out the [[door | Jim]].
+
+:: jump
+You sprint across Jim's office, broken glass crunching under your boots, and leap out the broken window.
+
+You fall...
+
+
+
+
+
+
+
+
+
+
+and fall...
+
+
+
+
+
+
+
+
+
+
+twelve stories is pretty big...
+
+
+
+
+
+
+
+
+
+
+the ceilings are pretty high too...
+
+
+
+
+
+
+
+
+
+
+You suddenly hit something very hard and hear a loud crack as you roll off the top of a now dented dumpster.
+
+The dove flutters around you and the pain begins to fade.
+"There //it// is, quickly now, before //it// drives off." 
+
+As you are pulling yourself to your feet,[[ Jim]] runs up to you and frantically asks, "Holy shit Eugene, are you ok? I'm surprised your breathing at all, let alone on your feet."
+
+:: Jim
+
+
+:: conform
