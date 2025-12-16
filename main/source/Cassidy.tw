@@ -1,4 +1,5 @@
 :: Start
+You are Eugene. An office worker trapped working a shitty job at a shitty company.
 In the distance you hear the bell tower ring seven times. Just one more hour until you can go home. 
 Your boss has you working overtime all week, although that's nothing new. 
 Your friends always told you climbing the corporate ladder was nothing but suffering, you should have [[listen|footsteps]]ed to them.
@@ -623,7 +624,7 @@ You tell Jim about the window and the dove and the voice<<if $janet is true>> an
 
 "What the fuck are you on about? You sound like an insane person." Jim says while grabbing onto your arm to stabilize you.
 
-You hear the voice in yur head again, "Don't tell //it// about me. //It// will only lie to you."
+You hear the voice in your head again, "Don't tell //it// about me. //It// will only lie to you."
 "Hold on, I see what you're doing, you're distracting him, good thinking."
 The dove flutters over to Jim and begins pecking at his eyes.
 "Now's your chance!"
@@ -642,9 +643,9 @@ The dove flutters over to Jim and begins pecking at his eyes.
 "Now's your chance!"
 
 You choose to sit there and watch as the dove does irreparable damage to Jim's eyes.
-In the distance you can hear sirens.<<if $murderer is false>> <<if $janet is true>>Janet must have woken up.<<else>>Janet must have called the police.<</if>><<else>>Someone must have seen and called the authorities.<</if>>
+In the distance you can hear sirens. <<if $murderer is false>> <<if $janet is true>>Janet must have woken up.<<else>>Janet must have called the police.<</if>><<else>>Someone must have seen and called the authorities.<</if>>
 You have to do something before the police get here.
-You have to [[attack Jim. | attack]]
+You have to [[attack Jim | attack]].
 
 :: run
 With sirens blaring at your back, you hop a chain link fence and run in the opposite direction.
@@ -679,8 +680,6 @@ Your mind is racing but it is silenced by the voice, "This is an excellent start
 
 How this dove managed to order a bomb you have no idea, but your [[apartment]] seems to be the best option for now.
 
-:: apartment
-
 :: conform
 You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
 
@@ -710,6 +709,66 @@ As you move to put the plank down, Janet steps through the office door.
 [[No I swear it was the dove. | blame]]
 
 :: blame
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+
+"No, I swear it was the dove, I was walking by and heard the window break so I came in here"
+
+"Sure Eugene, a dove broke the window, and I'm the president. You're holding a plank anyway, do you really think I'm this stupid."
+
+"Quick, you have to take //it// out before it can kill you." The voice returns.
+
+Janet pulls out her phone, she's surely calling the police.
+
+They'll never believe you, there's only one way out of this.
+[[You have to stop Janet. | stop Janet]]
+
+:: stop Janet
+You lunge at Janet with the wood plank, hitting the phone out of her hands before she can call anyone, and knocking her unconscious in one fell swoop.
+
+"Good, now finish her." The voice demands.
+
+[[Finish Janet. | kill kill]]
+[[Spare Janet. | spare spare]]
+
+:: kill kill
+You lunge at Janet with the wood plank, hitting the phone out of her hands before she can call anyone, and knocking her unconscious in one fell swoop.
+
+"Good, now finish her." The voice demands.
+
+You oblige the voices and end Janet's life.
+
+"You need to trust me on this, you need to [[jump]] out the window to stop the //other one//."
+
+:: spare spare
+You lunge at Janet with the wood plank, hitting the phone out of her hands before she can call anyone, and knocking her unconscious in one fell swoop.
+
+"Good, now finish her." The voice demands.
+
+You refuse to end Janet's life.
+
+"Fine, we can deal with //tyhat one// later, soon you'll see just how evil //they// really are. I need you to trust me, the only way to stop your boss is to [[jump]]."
 
 :: attack janet
 You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
@@ -847,3 +906,265 @@ Rather than place the wood plank on the ground, you lunge at Janet and start bea
 You only stop once you are sure she is unconscious.
 
 "Well, what are you doing? Finish the job."
+
+"No, i can't kill her."
+
+"Fine then, we'll deal with her later. Now we need to go get the //other one//. Trust me on this, we need to jump out the window."
+
+[[Trust the voices. | jump]]
+[[Take the stairs. | stairs4]]
+
+:: stairs4 
+You hear a voice in your head that is not your own, "Eugene, my child, we don't have much time, I'm sure //it// heard the window break."
+
+You stare blankly at the bird, you surely must be going crazy.
+
+The voice returns, "Please Eugene, act with haste."
+
+"Who are you?"
+
+The voice sounds frustrated this time, "I am the creator of all things, the giver of life. And I must implore that you listen to me. You are suffering, and life was not meant to be this way. Your boss, your coworkers, all of //them// are forces of evil, forces of evil which you must stop."
+
+Janet's heels click against the floor as she draws closer to Jim's office.
+Out the window you can see Jim walking to his car.
+
+"This can't be real."
+
+The voice is more urgent now, "Eugene, do something, //it's// almost here. Grab that plank of wood, we need to stop these devils before they escape."
+
+You grab the wood plank without thinking about it.
+
+Your rational mind knows better, you shouldn't have grabbed that plank.
+As you move to put the plank down, Janet steps through the office door.
+
+"Oh my god! Eugene, what happened here? Did you smash that window?"
+<<set $janet to true>>
+Rather than place the wood plank on the ground, you lunge at Janet and start beating her with the plank.
+You only stop once you are sure she is unconscious.
+
+"Well, what are you doing? Finish the job."
+
+"No, i can't kill her."
+
+"Fine then, we'll deal with her later. Now we need to go get the //other one//. Trust me on this, we need to jump out the window."
+
+You do not trust the dove, and opt to take the stairs instead.
+After three excruciating minutes of sprinting down stairs while a voice in your head chastises you, you reach the bottom and burst out the [[door | Jim]].
+
+:: apartment
+You run a mile to your apartment, and pick up a package from your PO box. 
+
+[[What now?]]
+
+:: What now?
+You run a mile to your apartment, and pick up a package from your PO box. 
+
+"What now?"
+
+"Now you must build the device, take it to your room." The voice commands.
+
+You do as the voice says and take the package to your room.
+When you get there you lock the door and go to your bedroom, where you open the package.
+Inside is a set of instructions and various circuits and parts.
+
+[[Build the bomb. | package]]
+[[Wallow in the destruction you've caused. | wallow]]
+
+:: package
+You run a mile to your apartment, and pick up a package from your PO box. 
+
+"What now?"
+
+"Now you must build the device, take it to your room." The voice commands.
+
+You do as the voice says and take the package to your room.
+When you get there you lock the door and go to your bedroom, where you open the package.
+Inside is a set of instructions and various circuits and parts.
+
+You sit down on your bed and begin reading the instructions, slowly crafting the device, one metal plate at a time.
+
+After a half hour, it is complete, and armed with a timer.
+
+"Excellent job Eugene, now we just need to go back and plant it at the base of the office building." The voice reassures.
+
+[[Plant the bomb. | plant]]
+<<if $murderer is false>>[[Hesitate. | hesitate]]<<else>>[[Set the bomb off now. | explode]]<</if>>
+
+:: explode
+Really? that's the option you chose? First you kill a coworker, and now you suicide bomb your entire apartment building? Thats sick and twisted.
+
+Oh well, the bomb goes off killing Eugene, the dove, everyone in the building, everyone on the sidewalk outside, and probably at least few people in surrounding buildings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you happy now?
+
+[[yes]]
+[[no]]
+
+:: yes
+Good, but the story doesn't end here. Now [[go back | package]] and pick a real option.
+
+:: no
+Womp womp, this is your fault, and the story doesn't end here. Now [[go back | package]] and pick a real option.
+
+:: hesitate
+You run a mile to your apartment, and pick up a package from your PO box. 
+
+"What now?"
+
+"Now you must build the device, take it to your room." The voice commands.
+
+You do as the voice says and take the package to your room.
+When you get there you lock the door and go to your bedroom, where you open the package.
+Inside is a set of instructions and various circuits and parts.
+
+You sit down on your bed and begin reading the instructions, slowly crafting the device, one metal plate at a time.
+
+After a half hour, it is complete, and armed with a timer.
+
+"Excellent job Eugene, now we just need to go back and plant it at the base of the office building." The voice reassures.
+
+You stop and think. 
+That building holds more than just your company.
+Haven't you caused enough pain already?
+Even if god wants you to kill all these people, is it the right choice?
+Your thoughts are interrupted by three loud [[knock]]s on your door.
+
+:: wallow
+<<if $murderer is true>>You can't believe you actually killed someone. Even if they were evil incarnate, you didn't think you were capable of such a heinous act.<<else>>You can't believe all that's happened. You question your own sanity, and wonder if Janet and Jim are ok, or if you changed the course of their lives forever.<</if>>
+
+After about five minutes of lying curled up on your bed lost in your thoughts, the voice in your head pierces through the fog, "We don't have time for this, the police could show up at any time and we need to plant the device as soon as possible."
+
+[[Build the bomb. | package2]]
+
+:: package2
+<<if $murderer is true>>You can't believe you actually killed someone. Even if they were evil incarnate, you didn't think you were capable of such a heinous act.<<else>>You can't believe all that's happened. You question your own sanity, and wonder if Janet and Jim are ok, or if you changed the course of their lives forever.<</if>>
+
+After about five minutes of lying curled up on your bed lost in your thoughts, the voice in your head pierces through the fog, "We don't have time for this, the police could show up at any time and we need to plant the device as soon as possible."
+
+You sit down on your bed and begin reading the instructions, slowly crafting the device, one metal plate at a time.
+
+A half hour later, the bomb is nearly complete and the dove sits watching on your shoulder.
+As you are screwing a metal panel on the back of the device you hear three loud [[knock]]s on your door.
+
+:: knock
+You sit frozen for a moment, bomb in your hands.
+
+Three more loud knocks, and a muffled voice, "Eugene Smith, we know you're in there, we have a warrant and we're coming in whether you let us in or not."
+
+You frantically scramble out of your bedroom, searching for an escape, but there is none, your apartment has no windows and only one door.
+
+Your door shakes violently once,
+
+then twice,
+
+and on the third shake it fall off its hinges. 
+Your apartment floods with swat officers who surround you, remove the bomb from your hands and handcuff you.
+
+The rest goes by in a blur, the voice stays silent, the dove is nowhere to be seen.
+
+They question you at the precinct, but you sound like an [[insane]] person.
+
+:: insane
+Maybe, you are an insane person.
+
+Maybe god didn't choose you to vanquish the demons of corporate America.
+
+Maybe you're just unwell.
+
+Maybe you're trapped in a system that has no regard for your well being and sanity.
+
+Maybe you're just a footnote of another statistic, here lies Eugene Smith, another bomb threat who attacked his coworkers in a bout of madness. Surely there's nothing we could've done.
+
+Maybe [[time]] marches on.
+
+:: time
+You were taken to court but won an insanity plea easily.
+
+They put you in a mental institution for a year until they deemed the antipsychotics were effective.
+
+Now you work as a janitor at 7/11, it's a terrible job, but at least you're not stuck in a cubicle.
+
+:: plant
+You put the device in a backpack and brusquely exit your apartment, there are sirens in the distance, no doubt they'll check your apartment soon.
+
+You look around the lobby of your building and see someone with a bike talking to the receptionist.
+
+"Steal the bike, it'll be quicker." The voices demand.
+
+[[Steal]]
+[[Steal]]
+[[Steal]]
+
+:: Steal
+You put the device in a backpack and brusquely exit your apartment, there are sirens in the distance, no doubt they'll check your apartment soon.
+
+You look around the lobby of your building and see someone with a bike talking to the receptionist.
+
+"Steal the bike, it'll be quicker." The voices demand.
+
+You steal the bike from right under their nose and ride off before they can stop you.
+
+You take the long route to your [[office]] building, so as to avoid the police. 
+
+:: office
+You put the device in a backpack and brusquely exit your apartment, there are sirens in the distance, no doubt they'll check your apartment soon.
+
+You look around the lobby of your building and see someone with a bike talking to the receptionist.
+
+"Steal the bike, it'll be quicker." The voices demand.
+
+You steal the bike from right under their nose and ride off before they can stop you.
+
+You take the long route to your office building, so as to avoid the police. 
+
+When you get there, the front is blocked by investigators, but the back is left unguarded.
+You sneak in with your company card and plant the device near the support beams.
+You set the timer and [[run| flee]].
+
+:: flee
+As you run, you notice the voices are quiet.
+
+You can't find the dove anywhere.
+
+A thought flashes through your mind, what if it wasn't real.
+
+It felt real.
+
+The broken window was real.
+
+The bomb was real.
+
+The dove had to be real.
+
+You must just be [[tired| sleepy]].
+
+:: sleepy
+You sleep in the city park, it would be too dangerous to return to your apartment, they're probably looking for you right now after all.
+
+You wake up late in the morning, still no voices, still no dove.
+
+You eat at a diner on the street corner.
+They have the news playing on one of their TVs, they are reporting a tragedy that happened earlier in the morning.
+An office building was blown up, the whole building collapsed, there was an estimated 1400 deaths.
+
+"You got them." A voice says in the back of Eugene's mind, "But there are more. More companies full of evil, working people like you to the point of insanity." The voice is his own.
